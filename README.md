@@ -38,3 +38,5 @@ Male subscribers make up the majority of users, as reiterated in the heatmap bel
 
 ### Summary 
 It appears that many of the citibike riders are residents, using the bikesharing program to commute to and from work within the city, which suggests that if a similar bike sharing program were to be started in another city, this would be the target audience to keep in mind when deiciding where to put bike stations. 
+
+Further analysis could be made by creating a plot to display gender vs the locations of starting and ending stations. This could help determine what businesses to place stations next to, for example a gym or hotel. The starting and ending locations of each trip could also be mapped to gather further insight into where commuters are going at different hours of the day. Many residents could be using citibike to commute to and from work, and to get lunch during the workday, which could explain the abundance of five minute trips in the "Checkout Times for Users" plot. Tourists could also be using citibikes to explore the city throughout the day, which plotting trip paths would be able to show. 
