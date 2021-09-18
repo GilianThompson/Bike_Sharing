@@ -1,5 +1,5 @@
 ### Overview 
-The purpose of this project was to analyze NYC citibike data to gather key insights based on statistical data of users and the overall bikesharing system
+The purpose of this project was to analyze NYC citibike data to gather key insights based on statistical data of users and the overall bikesharing system.
 
 ### Results 
 The data used throughout this project is from the month of August, chosen because bike rides as usually at a peak during this time of the year with this dataset containing 2,344,224 number of total rides.
